@@ -1,0 +1,11 @@
+.pt
+.hdf5
+
+/smarty
+
+/node_modules
+
+/backend/database
+/backend/model
+/backend/images
+/backend/data
